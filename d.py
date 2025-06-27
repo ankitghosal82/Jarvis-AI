@@ -52,7 +52,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # === API key ===
-co = cohere.Client("H2TbCV7bv8o19YZnaZT1BbUD3vXgxobdr9VkV2jg")  # Replace with your Cohere API key
+co = cohere.Client("")  # Replace with your Cohere API key
 
 # === TTS Setup ===
 engine = pyttsx3.init()
