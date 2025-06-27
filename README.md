@@ -113,10 +113,9 @@
 
 **Ankit Ghosal**  
 B.Tech, Electrical Engineering – IIEST Shibpur  
-AI • Coding • Data Science • Embedded Systems  
-🌐 [Portfolio](https://your-website.com)  
-📧 ankit@example.com  
-💬 Telegram: [@AnkitDev](https://t.me/AnkitDev)
+AI • Coding • Data Science • Machine Learning
+📧 ankitghosal82@gmail.com  
+
 
 ---
 
@@ -129,7 +128,4 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 > “Sometimes you gotta run before you can walk.” – *Tony Stark*
 
 
-👨‍💻 Created By
-Ankit Ghosal
-Pre-Final Year BTech, IIEST Shibpur
-📧 Email: [ankitghosal82@egmail.com]
+
