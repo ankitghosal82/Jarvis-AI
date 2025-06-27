@@ -13,7 +13,7 @@ import langdetect
 import os
 
 # === Setup ===
-co = cohere.Client("H2TbCV7bv8o19YZnaZT1BbUD3vXgxobdr9VkV2jg")
+co = cohere.Client("")
 
 engine = pyttsx3.init()
 engine.setProperty('rate', 180)
